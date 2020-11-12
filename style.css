@@ -18,6 +18,13 @@ figcaption {
   align-content: center
 }
 
+#featured-property + p {
+  width:800px;
+  align-content: center 
+}
 
+#details div {
+  float:left;
+}
 
 
